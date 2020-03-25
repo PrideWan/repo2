@@ -4,4 +4,5 @@ public class Hello2{
 	int c = 3;
 	int d = 4;
 	int e = 5;
+	String s = "张三";
 }
