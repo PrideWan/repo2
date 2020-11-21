@@ -6,4 +6,5 @@ public class Hello2{
 	int e = 5;
 	String s = "张三";
 	String s2 = "李四";
+	String s3 = "王五";
 }
